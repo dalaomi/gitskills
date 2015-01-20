@@ -1,3 +1,7 @@
 我目前在远程分支dev上修改
 
+
 change for user b /tmp/moni/gitskills
+
+mo ni another client modify /tmp/gitskills
+
